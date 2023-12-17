@@ -28,7 +28,6 @@ module clockdivider_tb;
 		#50 rst=1;
         
 		// Add stimulus here
-
 	end
 	always
 	#10 clk=~clk;
